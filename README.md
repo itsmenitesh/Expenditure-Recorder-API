@@ -16,7 +16,7 @@
 </a>
 </p>
    
-# Expense Tracker API
+# Expenditure Recorder API
 
 a Java and Spring Boot-built API for handling user authentication and spending.
 
